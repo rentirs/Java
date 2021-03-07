@@ -1,6 +1,6 @@
-/target
+target/
 lesson2.iml
-/.idea
-REDME.md
+.idea/
+README.md
 
 
