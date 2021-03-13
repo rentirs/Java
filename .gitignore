@@ -1,3 +1,5 @@
 /.idea
 /target
 .gitignore
+lesson-6.iml
+/src/test
